@@ -4,7 +4,7 @@ import divider from './gold-divider.webp';
 import kolam from './kolam.webp';
 import corner from './jasmine-corner.webp';
 import arch from './temple-arch.webp';
-import couple from './wedding-couple.webp';
+import couple from './couple-portrait.jpg';
 import toranam from './toranam.webp';
 import mandapam from './mandapam.webp';
 import ganesha from './ganesha.webp';

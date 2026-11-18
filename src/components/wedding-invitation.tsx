@@ -543,7 +543,7 @@ function CoupleSection({ lang }: { lang: Lang }) {
           <div className="couple-arch-card">
             <Art
               src={artwork.couple}
-              alt="Traditional Telugu wedding couple illustration"
+              alt="Shiva Kumar and Lokeshwari Devi"
               className="couple-art"
             />
             <div className="couple-caption">
